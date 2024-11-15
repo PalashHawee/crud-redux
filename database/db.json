@@ -1,0 +1,28 @@
+{
+  "production": [
+    {
+      "id": "1",
+      "title": "Product A",
+      "description": "This is Product A",
+      "price": 100,
+      "category": "Jeans",
+      "quantity": 50
+    },
+    {
+      "title": "Product B",
+      "description": "This is Product Deshi",
+      "price": 100,
+      "category": "Shirt",
+      "quantity": 50,
+      "id": "2"
+    },
+    {
+      "title": "Half shirt",
+      "description": "Hey Mysore",
+      "price": "1",
+      "category": "Country",
+      "quantity": "1",
+      "id": "bV00sbmXXFyHnDex4UOSS"
+    }
+  ]
+}
